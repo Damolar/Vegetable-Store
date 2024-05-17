@@ -1,0 +1,92 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+.navbar-brand img{
+    width: 30%;
+}
+
+.nav-item{
+    padding-left: 2.5rem;
+}
+
+.nav-link{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.gap img{
+    width: 90%;
+    height: 530px;
+    padding-left: 10rem;
+}
+
+.vegetable{
+    margin-top: 2rem;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 2rem;
+}
+
+.grocery img{
+    width: 90%;
+}
+
+.grocery p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pack img{
+    width: 85%;
+    align-items: center;
+}
+
+.pack p{
+    display: flex;
+    justify-content: center;
+}
+
+.plate img{
+    width: 82%;
+    align-items: center;
+}
+
+.plate p{
+    display: flex;
+    justify-content: center;
+}
+
+.basket img{
+    width: 100%;
+    align-items: center;
+}
+
+.basket p{
+    display: flex;
+    justify-content: center;
+}
+
+.price{
+    font-weight: bold;
+    color: rgb(31, 13, 13);
+}
+
+.end{
+    background-color: rgb(14, 39, 14);
+    margin: 2rem;
+}
+.end img{
+    margin: 2rem;
+    width: 30%;
+}
+.space{
+    padding-top: 2rem;
+    color: #fff;
+}
